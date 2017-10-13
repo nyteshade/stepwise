@@ -26,6 +26,7 @@ provide timing as it goes.
 - [ ] Dynamically detect whether or not `proceed()` is a getter, function or property and support all three.
 - [ ] Consider supporting subtasks/steps
 - [ ] Add EventEmitter tests
+- [ ] Write more details usage instructions with all variations
 
 ### Installation
 Head over to your project, install it and start using
